@@ -1,0 +1,4 @@
+*.dll
+*.exe
+*~
+gh-7393-mock.zip
